@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ICFxRrzWF0yD89HIJhnJ8680L9NqRIBvcrYeVVbl6xr5Y0afznDedvcvHfvIaBeCDaK25Fvug/UErP6+kkhu7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Pildoras\\RetosCSharp\\Curso\\Curso\\Curso.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\alexa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
