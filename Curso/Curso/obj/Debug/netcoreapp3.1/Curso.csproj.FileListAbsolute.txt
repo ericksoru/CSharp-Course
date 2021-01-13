@@ -1,0 +1,13 @@
+C:\Pildoras\RetosCSharp\Curso\Curso\bin\Debug\netcoreapp3.1\Curso.exe
+C:\Pildoras\RetosCSharp\Curso\Curso\bin\Debug\netcoreapp3.1\Curso.deps.json
+C:\Pildoras\RetosCSharp\Curso\Curso\bin\Debug\netcoreapp3.1\Curso.runtimeconfig.json
+C:\Pildoras\RetosCSharp\Curso\Curso\bin\Debug\netcoreapp3.1\Curso.runtimeconfig.dev.json
+C:\Pildoras\RetosCSharp\Curso\Curso\bin\Debug\netcoreapp3.1\Curso.dll
+C:\Pildoras\RetosCSharp\Curso\Curso\bin\Debug\netcoreapp3.1\Curso.pdb
+C:\Pildoras\RetosCSharp\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.csprojAssemblyReference.cache
+C:\Pildoras\RetosCSharp\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.AssemblyInfoInputs.cache
+C:\Pildoras\RetosCSharp\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.AssemblyInfo.cs
+C:\Pildoras\RetosCSharp\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.csproj.CoreCompileInputs.cache
+C:\Pildoras\RetosCSharp\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.dll
+C:\Pildoras\RetosCSharp\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.pdb
+C:\Pildoras\RetosCSharp\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.genruntimeconfig.cache
